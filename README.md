@@ -24,7 +24,7 @@ View and manage examination details.
 Modify passwords and account settings.
 Generate and view student performance reports.
 
-Student Functions
+📖 Student Functions
 
 Register with the portal and log in securely.
 Choose courses of interest.
